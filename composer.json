@@ -1,0 +1,14 @@
+{
+    "name": "taozheng149/composer",
+    "description": "a test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "taozheng",
+            "email": "taozheng149@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
